@@ -1,0 +1,19 @@
+.container {
+    width: 100vw; /* viewport width */
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction:column;
+    text-align: center;
+}
+.btn {
+    padding:20px;
+    background-color: cadetblue;
+}
+.btn:hover{
+    background-color: cornsilk;
+}
+h1 {
+    background-color: white;
+  }
